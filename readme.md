@@ -47,6 +47,10 @@ Table of Contents
 	 	- [ ] measure the circumfrences of a typical votive candle
 	 	- [ ] figure out what direction this one is going to take
 	 	- [ ] design an enclosure for some electronics/sensors
+ 	- Crosswalk Bench — A small foyer-bench the same dimensions as a painted block in a crosswalk.
+ 		- [x] obtain measurements of one of the painted blocks
+ 		- [ ] model out a simple bench
+ 		- [ ] build bench!
 
 
 2. *Structural Cat Toys* — Basically Really Great and Simple Cat Toys. Let’s start prototyping by ripping apart existing toys.
