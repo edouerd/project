@@ -3,8 +3,8 @@ Projects
 —
 
 > “The way we work is very intuitive … We always work on one garment at a time. If we spend more than 20 minutes on it, we just cancel it because it doesn't feel right … there are no working hours and we're just having fun all the time." 
-
-— Demna Gvasalia
+>
+> — Demna Gvasalia
 
 —
 
