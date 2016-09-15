@@ -22,32 +22,32 @@ Table of Contents
 ##### Home Goods
 ###### Simple Home Goods.
 
-1. [*Reference Points*](#7) — An ode to repitition, replication, object memory, hyperlinking, etc.
-	- nⁿ Vessels — Vessels mirroring the volume of train rails. Cups, flower holders, etc.
+1. *Reference Points* — An ode to repitition, replication, object memory, hyperlinking, etc.
+	- [nⁿ Vessels](https://github.com/edouerd/projects/issues/1) — Vessels mirroring the volume of train rails. Cups, flower holders, etc.
 		- [ ] measure the circumfrences of train rails
 		- [ ] investigate which materials are available for rapid prototyping via Shapeways
 		- [ ] design a set of vessels to be used together
 		- [ ] design a simple cardboard packaging for 'em
-	- Play Grounds — Remove the shell from the trains, leave the rails.
+	- [Play Grounds](https://github.com/edouerd/projects/issues/2) — Remove the shell from the trains, leave the rails.
 		- [ ] begin to overlay drawings in primary colors over photos of train interiors 
 		- [ ] print out on large architectural paper, include orthographics
-	- Clothes Rail — A particular form observed in certain trains makes for a good clothing rail.
+	- [Clothes Rail](https://github.com/edouerd/projects/issues/3) — A particular form observed in certain trains makes for a good clothing rail.
 	 	- [ ] measure the circumfrences of train rails
 	 	- [ ] prototype a structure of this sort with cheaper material (PVC?)
 	 	- [ ] design and spec something that could be manufactured easily out of a single rail
-	- Grate Mats — Mats/Blankets taking on the form of metal grating throughout New York. Heavy wool.
+	- [Grate](https://github.com/edouerd/projects/issues/4) Mats — Mats/Blankets taking on the form of metal grating throughout New York. Heavy wool.
 		- [ ] source appropriate fabric (wool?)
 		- [ ] do a crayon/characoal rub of a grate, scan into a computer
 		- [ ] figure out how a softgood process would work
-	- Tearaways — Fabric decorations that echo their namesake.
+	- [Tearaways](https://github.com/edouerd/projects/issues/5) — Fabric decorations that echo their namesake.
 		- [ ] photograph examples throughout the city
 		- [ ] collect a few samples of tearaways
 		- [ ] prototyping a few examples by hand, potentially dye
-	- Votive — A light-emitting object modeled after the classical Mexican votive candle.
+	- [Votive](https://github.com/edouerd/projects/issues/6) — A light-emitting object modeled after the classical Mexican votive candle.
 	 	- [ ] measure the circumfrences of a typical votive candle
 	 	- [ ] figure out what direction this one is going to take
 	 	- [ ] design an enclosure for some electronics/sensors
- 	- Crosswalk Bench — A small foyer-bench the same dimensions as a painted block in a crosswalk.
+ 	- [Crosswalk Bench](https://github.com/edouerd/projects/issues/7) — A small foyer-bench the same dimensions as a painted block in a crosswalk.
  		- [x] obtain measurements of one of the painted blocks
  		- [ ] model out a simple bench
  		- [ ] build bench!
