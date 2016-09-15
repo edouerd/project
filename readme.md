@@ -22,7 +22,7 @@ Table of Contents
 ##### Home Goods
 ###### Simple Home Goods.
 
-1. *Reference Points* — An ode to repitition, replication, object memory, hyperlinking, etc.
+1. [*Reference Points*](#7) — An ode to repitition, replication, object memory, hyperlinking, etc.
 	- nⁿ Vessels — Vessels mirroring the volume of train rails. Cups, flower holders, etc.
 		- [ ] measure the circumfrences of train rails
 		- [ ] investigate which materials are available for rapid prototyping via Shapeways
