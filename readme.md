@@ -48,26 +48,17 @@
 ##### Interventions
 ###### Alt–reality–generation & activism projects.
 
-1. Dream Studio — Photographs from around the world of fictional Mornings HQs
-	- Steps to take
-		- [ ] Continue to take photographs of nice storefronts around the world.
-		- [ ] Edit these photos in clever ways
-		- [ ] Display all edits on a website in some novel gallery format.
-		- [ ] Bonus: Utilize a map view for the site (Mapbox maybe)
+1. [Dream Studio](https://github.com/edouerd/projects/issues/15) — Photographs from around the world of fictional Mornings HQs
 
-2. Death Cultures — A long term investigation into how death cultures will adapt to changing human networks.
-	- Research
-		- [ ] Read as many articles as possible on the subject, 
-		- [ ] Tie in personal story of 
-	- Prototyping
-		- [ ] Networked Tomb
-		- [ ] Network of the dead 
+2. [Death Cultures](https://github.com/edouerd/projects/issues/16) — A long term investigation into how death cultures will adapt to changing human networks.
 
-3. $19.95 — Infomercial Design and Research. (On hold)
-4. Paper Prototyping Library — A digital library of methods of easy physical prototyping.
-5. Archives — Redesign non-for-profit sites such as archive.org, gutenberg.org, various linux distros, etc.
-6. Affordances — Extending further the ideas and practice of Jane Fulton Suri and Naoto Fukusawa, enact documentation of methods by which people extend their environment into working products.
-7. Offerings — Extending further the ideas and practice of Jane Fulton Suri and Naoto Fukusawa, document objects which 'bend' or offer themselves to their users.
+3. [$19.95](https://github.com/edouerd/projects/issues/17) — Infomercial Design and Research. (On hold)
+
+4. [Paper Prototyping Library](https://github.com/edouerd/projects/issues/18) — A digital library of methods of easy physical prototyping.
+
+5. [Archives](https://github.com/edouerd/projects/issues/19) — Redesign non-for-profit sites such as archive.org, gutenberg.org, various linux distros, etc.
+
+6. [Offerings/Affordances](https://github.com/edouerd/projects/issues/20) — Extending further the ideas and practice of Jane Fulton Suri and Naoto Fukusawa.
 
 
 —
