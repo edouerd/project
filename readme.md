@@ -30,19 +30,10 @@ Projects
  	- [Crosswalk Bench](https://github.com/edouerd/projects/issues/7) — A small foyer-bench the same dimensions as a painted block in a crosswalk.
 
 2. *Structural Cat Toys* — Basically Really Great and Simple Cat Toys. Let’s start prototyping by ripping apart existing toys.
-	- Steps to take
-		- [ ] Rip apart pre-existing toys with bells, crinkly bits, etc. within.
-		- [ ] Rough-prototyping shells with pre-existing components
 
 3. *Sampler* — A website-creation tool that doesn’t require a computer. Samples the local environment to build webpages.
-	- Steps to take
-		- [ ] Figure out how to translate sensor inputs into abstract web elements
-		- [ ] Prototype with some kind of miniature board computer + sensors
-		- [ ] Design an enclosure, figure out the minification process
 
 4. *Indexing* — Inside of my nyc apartment there was a newspaper or book cut into very thin strips and arranged tightly inside a wooden frame. I imagined the strips to be arranged into further smaller squares that could be removed.
-	- Steps to take
-		- [ ] Re-assess if this project makes any sense
 
 5. *Waterfall Wi-fi* — A small fountain/waterfall which pours forth water as long as there is a wifi connection. "As the wi-fi gets weaker, the strong flow of water decreases…” Data Fountain  
 
