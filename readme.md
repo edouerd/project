@@ -24,17 +24,11 @@ Table of Contents
 
 1. *Reference Points* — An ode to repitition, replication, object memory, hyperlinking, etc.
 	- [nⁿ Vessels](https://github.com/edouerd/projects/issues/1) — Vessels mirroring the volume of train rails. Cups, flower holders, etc.
-
 	- [Play Grounds](https://github.com/edouerd/projects/issues/2) — Remove the shell from the trains, leave the rails.
-
 	- [Clothes Rail](https://github.com/edouerd/projects/issues/3) — A particular form observed in certain trains makes for a good clothing rail.
-
-	- [Grate](https://github.com/edouerd/projects/issues/4) Mats — Mats/Blankets taking on the form of metal grating throughout New York. Heavy wool.
-
+	- [Grate Mats](https://github.com/edouerd/projects/issues/4) — Mats/Blankets taking on the form of metal grating throughout New York. Heavy wool.
 	- [Tearaways](https://github.com/edouerd/projects/issues/5) — Fabric decorations that echo their namesake.
-
 	- [Votive](https://github.com/edouerd/projects/issues/6) — A light-emitting object modeled after the classical Mexican votive candle.
-
  	- [Crosswalk Bench](https://github.com/edouerd/projects/issues/7) — A small foyer-bench the same dimensions as a painted block in a crosswalk.
 
 2. *Structural Cat Toys* — Basically Really Great and Simple Cat Toys. Let’s start prototyping by ripping apart existing toys.
