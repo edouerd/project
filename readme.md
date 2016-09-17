@@ -1,4 +1,4 @@
-Projects
+##### Projects
 
 > “The way we work is very intuitive … We always work on one garment at a time. If we spend more than 20 minutes on it, we just cancel it because it doesn't feel right … there are no working hours and we're just having fun all the time." 
 >
@@ -29,19 +29,19 @@ Projects
 	- [Votive](https://github.com/edouerd/projects/issues/6) — A light-emitting object modeled after the classical Mexican votive candle.
  	- [Crosswalk Bench](https://github.com/edouerd/projects/issues/7) — A small foyer-bench the same dimensions as a painted block in a crosswalk.
 
-2. *Structural Cat Toys* — Basically Really Great and Simple Cat Toys. Let’s start prototyping by ripping apart existing toys.
+2. [*Structural Cat Toys*](https://github.com/edouerd/projects/issues/8) — Basically Really Great and Simple Cat Toys. Let’s start prototyping by ripping apart existing toys.
 
-3. *Sampler* — A website-creation tool that doesn’t require a computer. Samples the local environment to build webpages.
+3. [*Sampler*](https://github.com/edouerd/projects/issues/9) — A website-creation tool that doesn’t require a computer. Samples the local environment to build webpages.
 
-4. *Indexing* — Inside of my nyc apartment there was a newspaper or book cut into very thin strips and arranged tightly inside a wooden frame. I imagined the strips to be arranged into further smaller squares that could be removed.
+4. [*Indexing*](https://github.com/edouerd/projects/issues/10) — Inside of my nyc apartment there was a newspaper or book cut into very thin strips and arranged tightly inside a wooden frame. I imagined the strips to be arranged into further smaller squares that could be removed.
 
-5. *Waterfall Wi-fi* — A small fountain/waterfall which pours forth water as long as there is a wifi connection. "As the wi-fi gets weaker, the strong flow of water decreases…” Data Fountain  
+5. [*Waterfall Wi-fi*](https://github.com/edouerd/projects/issues/11) — A small fountain/waterfall which pours forth water as long as there is a wifi connection. "As the wi-fi gets weaker, the strong flow of water decreases…” Data Fountain  
 
-6. *Måla Mount* — Drawing roll, mountable. Improve an IKEA object.  
+6. [*Måla Mount*](https://github.com/edouerd/projects/issues/12) — Drawing roll, mountable. Improve an IKEA object.  
 
-7. *Cloth Clips* — 3D Printed Uniform clips that could be used to clamp pieces of cloth together, forming clothing. A means by which to open-source clothing design.  
+7. [*Cloth Clips*](https://github.com/edouerd/projects/issues/13) — 3D Printed Uniform clips that could be used to clamp pieces of cloth together, forming clothing. A means by which to open-source clothing design.  
 
-8. *Watering* — When I was living in my parent's house, there would be certain days where we'd realize that there were a lot of cups lying about half-filled with water ( usually generated from myself ). When this happened, I'd be told to round up all of the cups and pour them into the cacti we had around the house, and that way the plants would be watered intermittently, which is perfectly fine for such hardy plants.
+8. [*Watering*](https://github.com/edouerd/projects/issues/14) — When I was living in my parent's house, there would be certain days where we'd realize that there were a lot of cups lying about half-filled with water ( usually generated from myself ). When this happened, I'd be told to round up all of the cups and pour them into the cacti we had around the house, and that way the plants would be watered intermittently, which is perfectly fine for such hardy plants.
 
 —
 
