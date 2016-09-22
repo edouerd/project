@@ -90,10 +90,11 @@
 
 1. VR Moods — A virtual environment in which the viewer is reclining in a lawn chair in the middle of a hyper dynamic environment. The user can only observe, switch music, and switch the scenery.
 2. Ikeahack — A roguelike situated in an endless IKEA dungeon
-3. AR Screensavers — While idling in the real world, whatever AR tech you have equipped would begin to display ambient forms in your local area
+3. AR Screensavers — While idling in the real world, whatever AR tech you have equipped would begin to display ambient forms in your local area.
 4. Persoji — A persona-generating app that uses one’s ‘Recently used’ keyboard to figure out who they are.
 5. Player (Piano) / Sheets — An app that displays sheet music. As you play, the pages automaticaly turn. Listens for voice commands. Will stop when you stop playing.
-6. Twine Résumé — An interactive CYOA game-cv-thing
+6. Twine Résumé — An interactive CYOA game-cv-thing.
+7. VR Web Browsers — Alternate methods of consuming and interacting with hypermedia.
 
 —
 
