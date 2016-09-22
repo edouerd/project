@@ -67,14 +67,21 @@
 ##### Textbooking
 ###### Writing and Publishing and Illustrating when there's time.
 
-1. Affordances, Offerings — An anthology of two Interventions projects. A documentation of physical objects and envvironments that offer themselves up to humanity
-2. Postmortem Portfolio — A print-oriented documentation of projects I’ve worked on that have failed.
-3. Tic — Record on video the numerous tics associated with digital technology. Preferably close in shot with minimal context. Press a book displaying clothing and accessories meant to alleviate and/or aggravate tics that have been mentioned.
-4. CULT FLYERS — An exploration into new–age propagandism and information dissemination.
-5. Cybernetics Club Reader — A publication documenting the findings of CC, a learning group.
-6. Methods of Mass Manufacture — A light novella on manufacturing methods and their application.
-7. LEVEL CAP — Stories about the future–present.
-8. Sunday School 1: Cybernetics — A bound/downloadable collection of works/writings from SS Session 1.
+1. [Affordances, Offerings]() — An anthology of two Interventions projects. A documentation of physical objects and envvironments that offer themselves up to humanity
+
+2. [Postmortem Portfolio]() — A print-oriented documentation of projects I’ve worked on that have failed.
+
+3. [Tic]() — Record on video the numerous tics associated with digital technology. Preferably close in shot with minimal context. Press a book displaying clothing and accessories meant to alleviate and/or aggravate tics that have been mentioned.
+
+4. [CULT FLYERS]() — An exploration into new–age propagandism and information dissemination.
+
+5. [Cybernetics Club Reader]() — A publication documenting the findings of CC, a learning group.
+
+6. [Methods of Mass Manufacture]() — A light novella on manufacturing methods and their application.
+
+7. [LEVEL CAP]() — Stories about the future–present.
+
+8. [CC1]() — A bound/downloadable collection of works/writings from CC Sessions 1–X.
 
 —
 
