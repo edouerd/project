@@ -60,6 +60,7 @@
 
 6. [Offerings/Affordances](https://github.com/edouerd/projects/issues/20) — Extending further the ideas and practice of Jane Fulton Suri and Naoto Fukusawa.
 
+7. [Little Free Library](https://github.com/edouerd/projects/issues/21) — Design and build a Really Nice LFL, and open source the construction files and methodology. Provide a solid BoM for the entire project.
 
 —
 
