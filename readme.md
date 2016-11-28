@@ -20,7 +20,7 @@
 ##### Home Goods
 ###### Simple Home Goods.
 
-1. *Reference Points* — An ode to repitition, replication, object memory, hyperlinking, etc.
+1. *Reference Points* — An ode to repetition, replication, object memory, hyperlinking, etc.
 	- [nⁿ Vessels](https://github.com/edouerd/projects/issues/1) — Vessels mirroring the volume of train rails. Cups, flower holders, etc.
 	- [Play Grounds](https://github.com/edouerd/projects/issues/2) — Remove the shell from the trains, leave the rails.
 	- [Clothes Rail](https://github.com/edouerd/projects/issues/3) — A particular form observed in certain trains makes for a good clothing rail.
