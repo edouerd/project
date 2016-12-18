@@ -28,6 +28,7 @@
 	- [Tearaways](https://github.com/edouerd/projects/issues/5) — Fabric decorations that echo their namesake.
 	- [Votive](https://github.com/edouerd/projects/issues/6) — A light-emitting object modeled after the classical Mexican votive candle.
  	- [Crosswalk Bench](https://github.com/edouerd/projects/issues/7) — A small foyer-bench the same dimensions as a painted block in a crosswalk.
+	- [Bookshelf](https://github.com/edouerd/projects/issues/22) — A simple shelf for displaying an ebook alongside normal books.
 
 2. [*Structural Cat Toys*](https://github.com/edouerd/projects/issues/8) — Basically Really Great and Simple Cat Toys. Let’s start prototyping by ripping apart existing toys.
 
